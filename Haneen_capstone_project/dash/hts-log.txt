@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Sep 2020 10:55:07 at https://themesbrand.com/veltrix/layouts/vertical/index-dark.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesbrand.com/veltrix/layouts/vertical/index-dark.html -O1 "C:\xampp\htdocs\finalp\han" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:57:16	Warning: 	File not parsed, looks like binary: https://themesbrand.com/veltrix/layouts/vertical/assets/fonts/materialdesignicons-webfont.woff2?v=4.4.95
+10:57:16	Warning: 	File not parsed, looks like binary: https://themesbrand.com/veltrix/layouts/vertical/assets/fonts/ionicons.woff2?v=4.5.10-1
+10:57:16	Warning: 	File not parsed, looks like binary: https://themesbrand.com/veltrix/layouts/vertical/assets/fonts/fa-brands-400.woff2
+10:57:16	Warning: 	File not parsed, looks like binary: https://themesbrand.com/veltrix/layouts/vertical/assets/fonts/fa-regular-400.woff2
+10:57:16	Warning: 	File not parsed, looks like binary: https://themesbrand.com/veltrix/layouts/vertical/assets/fonts/fa-solid-900.woff2
+10:57:17	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/vertical/assets/libs/summernote/summernote-bs4.css (from https://themesbrand.com/veltrix/layouts/vertical/email-compose.html)
+10:57:20	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/vertical/assets/libs/flot.curvedLines/curvedLines.js (from https://themesbrand.com/veltrix/layouts/vertical/charts-flot.html)
+10:57:20	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/vertical/assets/libs/datatables.net-autoFill-bs4/css/autoFill.bootstrap4.min.css (from https://themesbrand.com/veltrix/layouts/vertical/tables-editable.html)
+10:57:20	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/vertical/assets/libs/datatables.net-autoFill/js/dataTables.autoFill.min.js (from https://themesbrand.com/veltrix/layouts/vertical/tables-editable.html)
+10:57:20	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/vertical/assets/libs/datatables.net-autoFill-bs4/js/autoFill.bootstrap4.min.js (from https://themesbrand.com/veltrix/layouts/vertical/tables-editable.html)
+10:57:20	Warning: 	File not parsed, looks like binary: https://themesbrand.com/veltrix/layouts/vertical/assets/libs/summernote/font/summernote.woff2
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 13 seconds : 305 links scanned, 299 files written (22459877 bytes overall) [13034920 bytes received at 98006 bytes/sec], 12279762 bytes transferred using HTTP compression in 196 files, ratio 22%, 19.0 requests per connection
+(5 errors, 6 warnings, 0 messages)
